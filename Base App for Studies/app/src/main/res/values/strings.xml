@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SaveFile</string>
+
+    <string-array name="Times_requests">
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+
+</resources>
